@@ -1,0 +1,10 @@
+India:
+ProductName,CostPrice,Tax_Amt,Tax_Per,Final_Pice
+Soap,100,10.0,10,110.0
+detergent,200,20.0,10,220.0
+cream,300,30.0,10,330.0
+US:
+ProductName,CostPrice,Tax_Amt,Tax_Per,Final_Pice
+Soap,100,30.0,30,130.0
+detergent,200,60.0,30,260.0
+cream,300,90.0,30,390.0
